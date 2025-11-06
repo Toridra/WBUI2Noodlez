@@ -33,7 +33,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Regeln",
-				"imageurl": "",
+				"imageurl": "https://i.imgur.com/CdLdBeD.png",
 				"content": [
 					{
 						"title": "Unsere Regeln",
@@ -44,7 +44,7 @@
 			{
 				"layout": 4,
 				"buttontext": "Einstellungen",
-				"imageurl": "",
+				"imageurl": "https://i.imgur.com/CdLdBeD.png",
 				"content": [
 					{
 						"title": "Multiplikatoren",
@@ -67,7 +67,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Befehle",
-				"imageurl": "",
+				"imageurl": "https://i.imgur.com/CdLdBeD.png",
 				"content": [
 					{
 						"title": "Befehle",
@@ -89,4 +89,5 @@
 		"version": 2
 	}
 }
+
 

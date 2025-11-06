@@ -6,7 +6,7 @@
       "openbutton": 0,
       "hideicon": false,
       "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "iconurl": "https://i.imgur.com/tyhSnHr.png",
       "disableicontext": false,
       "iconposition": 2,
       "icontextcolor": 0,
@@ -18,7 +18,7 @@
       {
         "layout": 2,
         "buttontext": "Willkommen",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "imageurl": "https://i.imgur.com/14YXtdv.png",
         "content": [
           {
             "title": "Herzlich Willkommen bei den Ark Noodlez",
@@ -77,4 +77,5 @@
     ],
     "version": 2
   }
+
 }

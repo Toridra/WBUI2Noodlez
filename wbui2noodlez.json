@@ -1,0 +1,80 @@
+{
+  "WBUI2":
+  {
+    "settings":
+    {
+      "openbutton": 0,
+      "hideicon": false,
+      "hideiconafter": 60,
+      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "disableicontext": false,
+      "iconposition": 2,
+      "icontextcolor": 0,
+      "openonstart": false,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 12
+    },
+    "tabs": [
+      {
+        "layout": 2,
+        "buttontext": "Willkommen",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "Herzlich Willkommen bei den Ark Noodlez",
+            "text": "blablabla\n\nUnsere Regeln findest du im Reiter <RichColor Color=\"0,1,0,1\">Regeln</>"
+          },
+          {
+            "title": "Spielerliste",
+            "text": "{playerlist}"
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Regeln",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "Unsere Regeln",
+            "text": "<TextStyle.LightBlue>Allgemeine-Regeln</>\n\n- Jeder Spieler auf unseren ARK Servern muss sich so verhalten, dass wir einen fairen, geregelten und vollen Server erhalten können. Diese Regel kann alle anderen Regeln außer Kraft setzen.\n\n- Discord – wird empfohlen (für euch von Vorteil)!\n\n- Regelmäßig die Kanäle ⁠📌│𝐴𝑛𝑘𝑢̈𝑛𝑑𝑖𝑔𝑢𝑛𝑔𝑒𝑛 und ⁠🕵🏽│𝑅𝑒𝑝𝑜𝑟𝑡𝑠-𝑢𝑛𝑑-𝐷𝑒𝑐𝑎𝑦… kontrollieren, um aktuell zu bleiben."
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "Einstellungen",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "Multiplikatoren",
+            "text": "Playerlevel: 105 (Max 180)\n\n(+15 The Island, +15 Aberration, +15 Scorched Earth, +15 Extinction, +5 Chibi, +10 Explorer Notes = Gesamt 180)\n\n+ BobTales (+5 Scorched Earth, +5 Aberration, +5 Extinction) = Max 195\n\n\n\nDinolevel: Wild 150\n\n\n\nNachfolgend sind die wichtigsten Einstellungen der Server im Detail aufgelistet:\n\n2.0 HarvestAmountMultiplier\n\n2.0 TamingSpeedMultiplier"
+          },
+          {
+            "title": "Weitere Einstellungen",
+            "text": "deaktiviert EnableCryoSicknessPVE\n\naktiviert Allianzen"
+          },
+          {
+            "title": "Mods",
+            "text": "MX-E Ark Shop UI\n\nInterface für den Shop  (F2)\n\nInhalt des Shops findet ihr bei uns im Discord in der Exceltabelle ArkNoodlezEinkaufsmeile.\n\n\n\nWBUI2\n\nAnzeige der Regeln und Einstellungen mit F1"
+          },
+          {
+            "title": "Plugins",
+            "text": "<TextStyle.LightBlue>ArkShop</>\n\nShop für Spendenbelohnungen.\n\n\n\n<TextStyle.LightBlue>Better Spawn Distribution</>\n\nAuf allen Karten spawnen höhere Dinos (wie auf Ragna)"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "text": "Homepage",
+        "url": "https://www.ark-noodlez.de"
+      }
+    ],
+    "version": 2
+  }
+}

@@ -18,11 +18,11 @@
 			{
 				"layout": 2,
 				"buttontext": "Willkommen",
-				"imageurl": "https://i.imgur.com/dKlxOyO.png",
+				"imageurl": "https://i.imgur.com/KMxJdnu.png",
 				"content": [
 					{
 						"title": "Herzlich Willkommen bei den Ark Noodlez",
-						"text": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSchön das du bei uns gelandet bis, wir wünschen dir viel Spaß auf unserem PvE-Cluster.\r\n\r\nUnsere Regeln findest du oben im Reiter <RichColor Color=\"0,1,0,1\">Regeln</> und unsere Einstellungen im Reiter <RichColor Color=\"0,1,0,1\">Einstellungen</>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFür mehr Informationen komm einfach in unser Discord."
+						"text": "Schön das du bei uns gelandet bis, \r\nwir wünschen dir viel Spaß \r\nauf unserem PvE-Cluster.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nUnsere Regeln findest du \r\noben im Reiter <RichColor Color=\"0,1,0,1\">Regeln</> und \r\nunsere Einstellungen im Reiter <RichColor Color=\"0,1,0,1\">Einstellungen</>.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFür mehr Informationen komm einfach in unser Discord."
 					},
 					{
 						"title": "Spielerliste",
@@ -79,7 +79,7 @@
 		"links": [
 			{
 				"text": "Discord",
-				"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+				"url": "https://discord.gg/FbUPXM8"
 			},
 			{
 				"text": "Homepage",

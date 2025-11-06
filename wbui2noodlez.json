@@ -1,81 +1,91 @@
 {
-  "WBUI2":
-  {
-    "settings":
-    {
-      "openbutton": 0,
-      "hideicon": false,
-      "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/tyhSnHr.png",
-      "disableicontext": false,
-      "iconposition": 2,
-      "icontextcolor": 0,
-      "openonstart": false,
-      "openonstartonlynewplayers": true,
-      "updateinterval": 12
-    },
-    "tabs": [
-      {
-        "layout": 2,
-        "buttontext": "Willkommen",
-        "imageurl": "https://i.imgur.com/14YXtdv.png",
-        "content": [
-          {
-            "title": "Herzlich Willkommen bei den Ark Noodlez",
-            "text": "blablabla\n\nUnsere Regeln findest du im Reiter <RichColor Color=\"0,1,0,1\">Regeln</>"
-          },
-          {
-            "title": "Spielerliste",
-            "text": "{playerlist}"
-          }
-        ]
-      },
-      {
-        "layout": 1,
-        "buttontext": "Regeln",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Unsere Regeln",
-            "text": "<TextStyle.LightBlue>Allgemeine-Regeln</>\n\n- Jeder Spieler auf unseren ARK Servern muss sich so verhalten, dass wir einen fairen, geregelten und vollen Server erhalten können. Diese Regel kann alle anderen Regeln außer Kraft setzen.\n\n- Discord – wird empfohlen (für euch von Vorteil)!\n\n- Regelmäßig die Kanäle ⁠📌│𝐴𝑛𝑘𝑢̈𝑛𝑑𝑖𝑔𝑢𝑛𝑔𝑒𝑛 und ⁠🕵🏽│𝑅𝑒𝑝𝑜𝑟𝑡𝑠-𝑢𝑛𝑑-𝐷𝑒𝑐𝑎𝑦… kontrollieren, um aktuell zu bleiben."
-          }
-        ]
-      },
-      {
-        "layout": 4,
-        "buttontext": "Einstellungen",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Multiplikatoren",
-            "text": "Playerlevel: 105 (Max 180)\n\n(+15 The Island, +15 Aberration, +15 Scorched Earth, +15 Extinction, +5 Chibi, +10 Explorer Notes = Gesamt 180)\n\n+ BobTales (+5 Scorched Earth, +5 Aberration, +5 Extinction) = Max 195\n\n\n\nDinolevel: Wild 150\n\n\n\nNachfolgend sind die wichtigsten Einstellungen der Server im Detail aufgelistet:\n\n2.0 HarvestAmountMultiplier\n\n2.0 TamingSpeedMultiplier"
-          },
-          {
-            "title": "Weitere Einstellungen",
-            "text": "deaktiviert EnableCryoSicknessPVE\n\naktiviert Allianzen"
-          },
-          {
-            "title": "Mods",
-            "text": "MX-E Ark Shop UI\n\nInterface für den Shop  (F2)\n\nInhalt des Shops findet ihr bei uns im Discord in der Exceltabelle ArkNoodlezEinkaufsmeile.\n\n\n\nWBUI2\n\nAnzeige der Regeln und Einstellungen mit F1"
-          },
-          {
-            "title": "Plugins",
-            "text": "<TextStyle.LightBlue>ArkShop</>\n\nShop für Spendenbelohnungen.\n\n\n\n<TextStyle.LightBlue>Better Spawn Distribution</>\n\nAuf allen Karten spawnen höhere Dinos (wie auf Ragna)"
-          }
-        ]
-      }
-    ],
-    "links": [
-      {
-        "text": "Discord",
-        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-      },
-      {
-        "text": "Homepage",
-        "url": "https://www.ark-noodlez.de"
-      }
-    ],
-    "version": 2
-  }
-
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/tyhSnHr.png",
+			"disableicontext": false,
+			"iconposition": 2,
+			"icontextcolor": 0,
+			"openonstart": false,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 2,
+				"buttontext": "Willkommen",
+				"imageurl": "https://i.imgur.com/dKlxOyO.png",
+				"content": [
+					{
+						"title": "Herzlich Willkommen bei den Ark Noodlez",
+						"text": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSchön das du bei uns gelandet bis, wir wünschen dir viel Spaß auf unserem PvE-Cluster.\r\n\r\nUnsere Regeln findest du oben im Reiter <RichColor Color=\"0,1,0,1\">Regeln</> und unsere Einstellungen im Reiter <RichColor Color=\"0,1,0,1\">Einstellungen</>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nFür mehr Informationen komm einfach in unser Discord."
+					},
+					{
+						"title": "Spielerliste",
+						"text": "{playerlist}"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Regeln",
+				"imageurl": "https://i.imgur.com/mGt3cAF.png",
+				"content": [
+					{
+						"title": "Unsere Regeln",
+						"text": "<TextStyle.LightBlue>Allgemeine-Regeln</>\r\n\r\n- Jeder Spieler auf unseren ARK Servern muss sich so verhalten, dass wir einen fairen, geregelten und vollen Server erhalten können.\r\n   Diese Regel kann alle anderen Regeln außer Kraft setzen.\r\n- Discord – wird empfohlen (für euch von Vorteil)!\r\n- Regelmäßig die Kanäle -Ankündigungen- und -Reports-und-Decay…- kontrollieren, um aktuell zu bleiben.\r\n- Regelmäßig die Regeln kontrollieren! - Unwissenheit schützt vor Strafe nicht!\r\n- Regelverstöße/Dinos, die den Spielbetrieb hindern (Bsp. Terminal), werden ohne Vorwarnung bearbeitet/entfernt.\r\n- Die Chatsprache ist Deutsch.\r\n- Belästigung von Mitspielern ist verboten. Hierunter fallen Beleidigungen, sexistische, radikale sowie nationalsozialistische Äußerungen\r\n- Steam-, Spieler-, Stamm- und Dinonamen müssen FSK 0 sein. Unangemessene/ kryptische Namen (sowie Mensch 123 etc.) sind verboten.\r\n- Cheaten/Exploiten/BugUsen/Dupen ist verboten – Wer Fehler findet soll diese bitte melden!\r\n- Offline Charaktere dürfen nicht getötet/gelootet werden.\r\n- Verluste von Tieren, Strukturen, Items usw. werden nicht erstattet. (Auch nicht bei Server-Crash oder sonstigen techn. Problemen!)\r\n- Bieber Dämme, Artefakte, Drops etc. bitte vollständig leeren /gelootete Eier (Bspl.Wyvern, Deinos, Rockys etc.) verzehren und nicht wegschmeißen!\r\n- Spammen oder Werbung im Chat ist ohne Genehmigung nicht erlaubt. \r\n- Griefing ist verboten.\r\n\r\n<TextStyle.LightBlue>Dino-Regeln</>\r\n\r\n- Das Abstellen von Dinos an Obelisken/ Terminals ist verboten.\r\n- Dinos dürfen nur in der eigenen Base auf wandern stehen. Aggressive Dinos außerhalb der Base werden ohne Vorwarnung aus dem Spiel entfernt.\r\n- Das ziehen wilder Dinos zu anderen Basen ist verboten.\r\n- Das Breeden von Dinos in Höhlen ist nicht erlaubt, auch nicht das parken dieser dort.\r\n\r\n<TextStyle.LightBlue>Bau-Regeln</>\r\n\r\n- Je Server (Map) ist eine Hauptbasis und ein Außenposten pro Tribe erlaubt (Baumplattformen zählen auch als Außenposten!).\r\n- Keine Strukturen außerhalb der Base, nur temporär (solange der Spieler online ist) z.B. Schlafsäcke, Lagerfeuer, Tamefallen, Teleporter.\r\n- Das Zubauen von Farmspots (Metall,Bieberdämme etc.)/seltenen Dino-Spawns/Artefakte/Lootcrates/Notes ist verboten. \r\n- Das Bauen an & um Obelisken ist verboten, da Spieler durch fremde Strukturen ihre Dinos für den Boss nicht mehr rauswerfen können.\r\n- Haltet bitte genug Abstand zu anderen Basen.\r\n- Das Bauen an einen Spawnpunkt ist erlaubt, sofern fremde Spieler eure Base problemlos verlassen können. \r\n- Das Reservieren von Bauplätzen ist max. 3 Tage erlaubt.\r\n- Spawnbasen (Außenposten) müssen ein komplettes Gebäude sein (Boden,Wände,Dach,Bett) - alles andere wird ohne Vorwarnung bei Sichtung entfernt!\r\n- Zähm-Gehege dürfen nur, als Teil der Hauptbase dauerhaft gebaut werden und müssen sonst nach Gebrauch wieder abgebaut werden. (Auch diese werden sonst bei Sichtung, ohne Vorwarnung entfernt)!\r\n- Das Bebauen von Eier-Spawns, sowie das Bauen in und an Wyvernschluchten (Caves) ist verboten.\r\n- Begrenzung von Spezies „X“ „Y“ „Z“ Pflanzen pro.Base/ pro.Map - auf 50 pro. Tribe.\r\n- Harzsammler/Ölpumpen etc. müssen ALLE entsperrt werden.\r\n- Keine Außenposten (Teleporterbasen) an Artefakt- oder Lootcratespawns.\r\n- Die Passierbarkeit der Welt zu Land und zu Wasser muss gewährleistet sein.\r\n\r\nAlles was gegen diese Regeln verstößt, wird bei Sichtung direkt ohne Vorwarnung entfernt!"
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "Einstellungen",
+				"imageurl": "https://i.imgur.com/mGt3cAF.png",
+				"content": [
+					{
+						"title": "Multiplikatoren",
+						"text": "2.0 HarvestAmountMultiplier\r\n2.0 TamingSpeedMultiplier\r\n2.0 XPMultiplier\r\n10.0 EggHatchSpeedMultiplier \r\n10.0 BabyMatureSpeedMultiplier\r\n4.0 PerLevelStatsMultiplier_Player[7] (Spielergewicht)\r\n2.0 DinoTamed[7] (Dinogewicht)\r\n1.0 FishingLootQualityMultiplier\r\n5.0 Schwierigkeit\r\n0.4083096 Tageszeitgeschwindigkeit (Standard auf AB)"
+					},
+					{
+						"title": "Weitere Einstellungen",
+						"text": "Playerlevel: 105 (Max 180)\r\n(+15 The Island, +15 Aberration, +15 Scorched Earth, +15 Extinction, +5 Chibi, +10 Explorer Notes = Gesamt 180)\r\n+ BobTales (+5 Scorched Earth, +5 Aberration, +5 Extinction) = Max 195\r\n\r\nDinolevel: Wild 150\r\n\r\nEnableCryoSicknessPVE - deaktiviert \r\nAllianzen - aktiviert\r\nKartenposition - aktiviert\r\nHöhlen-Bebauung - deaktiviert\r\nFliegen in Höhlen - deaktiviert\r\nGamma - aktiviert\r\nAllowFlyerCarryPvE - aktiviert\r\nFadenkreuz - aktiviert\r\nSpeed-Leveln von Dinos und Chars - deaktiviert\r\nFriendly-Fire - aktiviert\r\n\r\nMindwipe hat keine Begrenzung\r\nTitanosaurus deaktiviert\r\nJeder Spieler im Stamm kann Babys prägen\r\n\r\nÜberarbeitete und verbesserte Beacons\r\nDie Loot-Crates sind komplett überarbeitet. Grundsätzlich ist der Müll aus allen Loot entfernt worden. Eine Excelliste gibt es auf Discord oder der Homepage."
+					},
+					{
+						"title": "Mods",
+						"text": "<TextStyle.LightBlue>MX-E Ark Shop UI</>\r\nInterface für den Shop  (F2)\r\n\r\nInhalt des Shops findet ihr bei uns im Discord in der Exceltabelle ArkNoodlezEinkaufsmeile.\r\n\r\n<TextStyle.LightBlue>WBUI2</>\r\nAnzeige der Regeln und Einstellungen (F1)"
+					},
+					{
+						"title": "Plugins",
+						"text": "<TextStyle.LightBlue>ArkShop</>\r\nShop für Spendenbelohnungen.\r\n\r\n<TextStyle.LightBlue>Better Spawn Distribution</>\r\nAuf allen Karten spawnen höhere Dinos (wie auf Ragna)\r\n\r\n<TextStyle.LightBlue>Item Plus Ascended</>\r\nTransferieren von Element und Trophy's auf andere Karten\r\n\r\n<TextStyle.LightBlue>Lethal Decay Ascended</>\r\nDecay-Timer nach Gruppen.\r\n\r\n<TextStyle.LightBlue>Lethal Dino Utilities</>\r\nVerschiedene Befehle gegen Punkte einzutauschen (Geschlechter-Wechsel, Imprint)\r\n\r\n<TextStyle.LightBlue>SR's Solo Farm</>\r\nUm besser allein mit den Farmdinos zu ernten.\r\n\r\n<TextStyle.LightBlue>Kals Next Gen Cluster</>\r\nCluster Chat, Playerliste usw."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Befehle",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Befehle",
+						"text": "<TextStyle.LightBlue>SR's Solo Farm</>\r\n\r\n/farm\r\nAktiviert das Solofarmen mit Standardangriff\r\n\r\n/farm [AttackTyp]\r\nAktivert das Farmen mit einen bestimmten Angriff, 0 ist Standard mache haben noch 1 und 2 (nicht alle funktionieren)\r\n\r\n/stopall\r\nStopt alle Dinos vom Farmen (maximal können 2 gleichzeitig farmen)\r\n\r\n<TextStyle.LightBlue>ArkShop</>\r\n\r\n/points\r\nZeigt deine Punkte an\r\n\r\n<TextStyle.LightBlue>Item Plus Ascended</>\r\n\r\n/upload\r\nLädt Element und Trophy's aus dem Inventar an einem Oblilisken hoch\r\n\r\n/download\r\nLädt die hochgeladen Items auf der gleichen Karte wieder runter (wenn man reist wird alles automatisch runtergeladen)\r\n\r\n<TextStyle.LightBlue>Lethal Decay Ascended</>\r\n\r\n/decaytime\r\nZeigt beim anschauen einer Struktur die Zerfallszeit an\r\n\r\n<TextStyle.LightBlue>Lethal Dino Utilities</>\r\n\r\n/dinobefehle\r\nZeigt dir alle verfügbaren Befehle des Dino Utilities Plugins an\r\n\r\n/dinosettings\r\nZeigt dir die Einstellungen von geclaimten Babys an (Befehl nur fürVIP s) - können angepasst werden\r\n\r\n/getstats\r\nGibt die Werte des Dinos aus.\r\n\r\nDEFAULT - Jeder Spieler\r\n\r\n/gender\r\nKostet 50 Punkte. Ändert das Geschlecht des Dinos den du anschaust.\r\n\r\n/hatch\r\nKostet 50 Punkte. Lässt einen Dino sofort gebären/ein Ei schlüpfen. \r\n\r\n/imprint\r\nKostet 100 Punkte. Prägt den Dino auf 100% (beeinflusst nur Dinos die geprägt werden können, ansonsten verschwendet man Punkte).\r\n\r\n/resetmating\r\nKostet 50 Punkte. Setzt den Paarungstimer zurück.\r\n\r\nVIP - Spender\r\n\r\n/dinorespec\r\nKostet 200  Punkte. Setzt die gelevelten Werte des Dinos zurück.\r\n\r\n/grow\r\nKostet 100 Punkte. Macht einen Dino sofort erwachsen.\r\n\r\n/resetmatingaoe\r\nKostet 200 Punkte. Setzt den Paarungstimer von allen Dinos im Umkreis von 10 Foundation zurück.\r\n\r\n/imprintit\r\nKostet 200 Punkte. Ändert den Imprinter des Dinos (man muss auf dem Dino sitzen).\r\n\r\nKostenlos:\r\n\r\n/levelhp\r\nLevel den Wert,  kann z.B. /levelhp all (alle verfügbaren Punkte in HP leveln) oder /level 10 (alle verfügbaren Punkte in HP leveln) genommen werden\r\n/levelstam, /leveloxy, /levelfood, /levelweight, /leveldmg\r\n\r\n/mate\r\nSchaltet Paarung ein.\r\n\r\n/nomate\r\nSchaltet Paarung aus.\r\n\r\n/mateaoe\r\nSchaltet Paarung bei allen Dinos im Umkreis von 10 Foundations ein.\r\nKann auch nur für bestimmte Dinos genutzt werden, z.B. /mateaoe rex alle Rexe im Umkreis.\r\n\r\n/nomateaoe\r\nSchaltet Paarung bei allen Dinos im Umkreis von 10 Foundations aus.\r\nKann auch nur für bestimmte Dinos genutzt werden, z.B. /mateaoe rex alle Rexe im Umkreis.\r\n\r\n/neuter\r\nMacht den Dino unfruchtbar.\r\n\r\n/neuteraoe\r\nMacht alle Dinos im Umkreis von 10 Foundations unfruchtbar.\r\n\r\n/claim\r\nBeansprucht alle Dinos im Umkreis von 10 Foundations.\r\n\r\n/cryo\r\nPackt den Dino ein - benötigt Cryopod im Inventar\r\n\r\n/cryoaoe\r\nPackt alle Dinos im Umkreis von 10 Foundations ein.\r\nKann auch nur für bestimmte Dinos genutzt werden, z.B. /cryoaoe rex alle Rexe im Umkreis werden eingepackt - benötigt Cryopod im Inventar.\r\n\r\n/uncryo\r\nPackt alle Dinos aus dem Inventar (bis maximal 20 Stücke) aus\r\n\r\n/kill\r\nTöten den Dino den du anschaust!!!!\r\n\r\n/killaoe - ACHTUNG\r\nTötet alle Dinos im Umreis von 10 Foundations"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+			},
+			{
+				"text": "Homepage",
+				"url": "https://www.ark-noodlez.de"
+			}
+		],
+		"version": 2
+	}
 }
